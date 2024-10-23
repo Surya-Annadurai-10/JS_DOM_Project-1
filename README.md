@@ -1,6 +1,6 @@
 # DOM PROJECT-1 : Understanding DOM manipulation # 
 
-## Hosted Link : (click me)[https://surya-annadurai-10.github.io/JS_DOM_Project-1/]
+ Hosted Link : [click me](https://surya-annadurai-10.github.io/JS_DOM_Project-1/)
 
 ## Overview
   This project demonstrates basic DOM manipulation using JavaScript. It consists of an HTML file with a styled container that showcases how to dynamically apply styles and content to elements. The project serves as a fundamental introduction to understanding the Document Object Model (DOM) and how to manipulate it using JavaScript.
